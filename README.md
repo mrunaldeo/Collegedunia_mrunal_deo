@@ -9,7 +9,8 @@ This project is a React-based application that displays a table of colleges with
 - **Sorting**: Sort the table by college rating, fees, and user review rating in both ascending and descending order.
 - **Searching**: Search for colleges by name.
   
- ## video link:![infinitescrolling](https://github.com/mrunaldeo/collegedunia_mrunal_deo/assets/125798296/1072f6e2-ddaf-47f2-bf23-c0da1b33a939)
+ ## final result:![12](https://github.com/mrunaldeo/collegedunia_mrunal_deo/assets/125798296/d6314977-24dd-459d-a036-9d05b07b7dcb)
+![infinitescrolling](https://github.com/mrunaldeo/collegedunia_mrunal_deo/assets/125798296/1072f6e2-ddaf-47f2-bf23-c0da1b33a939)
 
 
 ## Usage
