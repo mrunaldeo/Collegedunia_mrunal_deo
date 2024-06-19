@@ -8,6 +8,8 @@ This project is a React-based application that displays a table of colleges with
 - **Infinite Scrolling**: Load more rows as you scroll down the table.
 - **Sorting**: Sort the table by college rating, fees, and user review rating in both ascending and descending order.
 - **Searching**: Search for colleges by name.
+  
+ ## video link:![infinitescrolling](https://github.com/mrunaldeo/collegedunia_mrunal_deo/assets/125798296/1072f6e2-ddaf-47f2-bf23-c0da1b33a939)
 
 
 ## Usage
