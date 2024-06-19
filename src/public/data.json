@@ -1,4 +1,23 @@
-[ {
-},{
-  ,
-]
+[
+    { "id": 1, "name": "College A", "rating": 4.5, "fees": 50000, "userReview": 4.7, "featured": true },
+    { "id": 2, "name": "College B", "rating": 3.8, "fees": 40000, "userReview": 3.9, "featured": false },
+    { "id": 3, "name": "College C", "rating": 4.2, "fees": 45000, "userReview": 4.3, "featured": true },
+    { "id": 4, "name": "College D", "rating": 3.5, "fees": 30000, "userReview": 3.6, "featured": false },
+    { "id": 5, "name": "College E", "rating": 4.0, "fees": 35000, "userReview": 4.0, "featured": false },
+    { "id": 6, "name": "College F", "rating": 4.7, "fees": 60000, "userReview": 4.8, "featured": true },
+    { "id": 7, "name": "College G", "rating": 3.9, "fees": 38000, "userReview": 4.1, "featured": false },
+    { "id": 8, "name": "College H", "rating": 4.3, "fees": 42000, "userReview": 4.4, "featured": true },
+    { "id": 9, "name": "College I", "rating": 3.6, "fees": 31000, "userReview": 3.7, "featured": false },
+    { "id": 10, "name": "College J", "rating": 4.1, "fees": 41000, "userReview": 4.2, "featured": false },
+    { "id": 11, "name": "College K", "rating": 4.6, "fees": 52000, "userReview": 4.5, "featured": true },
+    { "id": 12, "name": "College L", "rating": 3.7, "fees": 36000, "userReview": 3.8, "featured": false },
+    { "id": 13, "name": "College M", "rating": 4.4, "fees": 47000, "userReview": 4.6, "featured": true },
+    { "id": 14, "name": "College N", "rating": 3.8, "fees": 39000, "userReview": 4.0, "featured": false },
+    { "id": 15, "name": "College O", "rating": 4.1, "fees": 43000, "userReview": 4.3, "featured": true },
+    { "id": 16, "name": "College P", "rating": 3.9, "fees": 35000, "userReview": 3.9, "featured": false },
+    { "id": 17, "name": "College Q", "rating": 4.0, "fees": 37000, "userReview": 4.1, "featured": true },
+    { "id": 18, "name": "College R", "rating": 3.7, "fees": 33000, "userReview": 3.8, "featured": false },
+    { "id": 19, "name": "College S", "rating": 4.3, "fees": 48000, "userReview": 4.5, "featured": true },
+    { "id": 20, "name": "College T", "rating": 3.6, "fees": 32000, "userReview": 3.9, "featured": false }
+  ]
+  
